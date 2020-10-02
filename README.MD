@@ -14,6 +14,6 @@ Projeto encontra-se em andamento
 clone o projeto
 
 ``` 
-git clone https://github.com/JosephMartins/animals-fantastics.git
+git clone https://github.com/JosephMartins/flex-blog.git
 ```
->> Execute em seu navegador index.html 
+Execute em seu navegador index.html 
