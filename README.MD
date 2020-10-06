@@ -6,7 +6,7 @@
 
 ## Deploy no Netlify:
 https://flexblogger.netlify.app/
-
+ 
 Projeto concluído
 
 ## Para escutar a aplicação em sua máquina
